@@ -12,8 +12,3 @@ related with the images model
 13.Block the admin panel url for all users except the admin user
 14.Responsive design for all screens (DONE footer , DONE nav , DONE home , DONE previous work , DONE Contact us , DONE our services)
 15.DONE problem of the toggle button on the navbar
-
-
-Note : 
-- admin panel credintials : 
-    1. username : admin , email : admin@admin.com , password : adminpass123
